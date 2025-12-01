@@ -1,4 +1,4 @@
-#let basic-letter(
+#let basic-academic-letter(
   body,
   main_color: navy,
   logo_frac: 1.2fr,

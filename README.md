@@ -46,7 +46,7 @@ Or you can also search and use this template in [Typst Universe](https://typst.a
 ## Configuration
 
 ```typst
-#show: basic-letter.with(
+#show: basic-academic-letter.with(
   // Institutional information
   main_color: rgb("#641C78"),
   logo_img: image("assets/logo.jpg", width: 80%),

@@ -1,6 +1,6 @@
-#import "@preview/basic-academic-letter:0.1.0": basic-letter
+#import "@preview/basic-academic-letter:0.1.0": basic-academic-letter
 
-#show: basic-letter.with(
+#show: basic-academic-letter.with(
   main_color: rgb("#045A80"),
   logo_frac: 1.5fr,
   logo_img: image("assets/logo.png", width: 100%),
